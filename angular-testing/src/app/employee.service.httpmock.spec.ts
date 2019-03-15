@@ -5,7 +5,7 @@ import { TestBed, async, inject } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 
-describe('Employee Service- Http Mock Object ', () => {
+xdescribe('Employee Service- Http Mock Object ', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       imports: [
